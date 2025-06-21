@@ -39,6 +39,7 @@ cd story-app
 ### 2. Instalasi dependensi
 
 ```bash
+composer install
 npm install
 npm run dev
 ```
