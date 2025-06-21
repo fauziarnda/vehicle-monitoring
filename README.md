@@ -25,8 +25,9 @@ VeMon adalah sistem berbasis web yang digunakan untuk melakukan pemesanan kendar
 | NPM           | 9.8.1              |
 | SQLite        | 3.46.1             |
 
+---
 
-##📦 Instalasi dan Jalankan
+## 📦 Instalasi dan Jalankan
 
 ### 1. Clone repositori
 
