@@ -65,7 +65,7 @@
             </div>
         </div>
 
-        <!-- Tombol Edit (Opsional) -->
+        
         <div class="mt-10 text-right">
             <button class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold">Edit</button>
         </div>
