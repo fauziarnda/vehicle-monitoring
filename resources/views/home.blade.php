@@ -89,13 +89,13 @@
     <script>
         const ctx = document.getElementById('chartPemesanan').getContext('2d');
         new Chart(ctx, {
-            type: 'bar', // bisa 'line', 'pie', dll.
+            type: 'bar', 
             data: {
                 labels: ['Jan', 'Feb', 'Mar', 'Apr', 'Mei', 'Jun'],
                 datasets: [{
                     label: 'Jumlah Pemesanan',
                     data: [12, 19, 7, 14, 18, 10],
-                    backgroundColor: 'rgba(59, 130, 246, 0.5)', // biru Tailwind
+                    backgroundColor: 'rgba(59, 130, 246, 0.5)', 
                     borderColor: 'rgba(59, 130, 246, 1)',
                     borderWidth: 1
                 }]
